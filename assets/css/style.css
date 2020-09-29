@@ -1347,6 +1347,7 @@ section {
 
 #footer .copyright {
   float: left;
+  left: 10px;
 }
 
 #footer .credits {
