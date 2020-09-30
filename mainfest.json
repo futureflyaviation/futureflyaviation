@@ -1,0 +1,9 @@
+{  
+    "name": "Future-fly",   
+    "short_name": "Future Fly", 
+    "lang": "en-US",     
+    "start_url": "/amp.html", 
+    "display": "standalone",  
+    "background_color": "white",   
+    "theme_color": "black" 
+    }
