@@ -5,5 +5,5 @@
     "start_url": "./index.html", 
     "display": "standalone",  
     "background_color": "white",   
-    "theme_color": "black",
+    "theme_color": "black"
     }
