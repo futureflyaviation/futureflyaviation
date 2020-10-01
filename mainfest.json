@@ -1,9 +1,9 @@
 {  
-    "name": "Future-fly Academy",   
+    "name": "FutureFly group of Institute - A concept based job oriented traning institute",   
     "short_name": "Future Fly", 
     "lang": "en-US",     
-    "start_url": "/index.html", 
+    "start_url": "./index.html", 
     "display": "standalone",  
     "background_color": "white",   
-    "theme_color": "black" 
+    "theme_color": "black",
     }
