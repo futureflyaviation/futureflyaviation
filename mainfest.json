@@ -1,8 +1,8 @@
 {  
-    "name": "Future-fly",   
+    "name": "Future-fly Academy",   
     "short_name": "Future Fly", 
     "lang": "en-US",     
-    "start_url": "/amp.html", 
+    "start_url": "/index.html", 
     "display": "standalone",  
     "background_color": "white",   
     "theme_color": "black" 
