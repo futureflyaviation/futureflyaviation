@@ -55,9 +55,3 @@ header {
     border-color: #206bfb;
   }
   
-  @media (max-width: 768px) {
-    .get-boot-btn {
-      margin: 0 48px 0 0;
-      padding: 6px 18px;
-    }
-  }
