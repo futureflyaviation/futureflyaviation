@@ -1,9 +1,15 @@
 {  
     "name": "FutureFly group of Institute - A concept based job oriented traning institute",   
-    "short_name": "Future Fly", 
-    "lang": "en-US",     
+    "short_name": "Future Fly",
+    "dir": "auto",
+    "lang": "en-US",
+    "icons": "assets/img/favicon.png",
+    "src": "assets/img/favicon.png",
+    "sizes": "192*192",
+    "type":"image/png",
+    "purpose": "maskable",
     "start_url": "./index.html", 
-    "display": "standalone",  
+    "display": "fullscreen",  
     "background_color": "white",   
     "theme_color": "black"
     }
